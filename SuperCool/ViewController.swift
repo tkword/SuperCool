@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         boom.hidden = false
         bg.hidden = false
         button.hidden = true
-		// Test
+		// Test1
     }
 
 }
